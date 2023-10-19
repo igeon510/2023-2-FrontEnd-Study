@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+.color{
+    padding: 30px;
+    border:10px solid black;
+}
+button{
+    font-size: 30px;
+    background-color: darkgrey;
+}
+input{
+    font-size:30px;
+    width: 145px;
+    background-color:gray;
+}
+
+.C{
+    width: 110px;
+}
+.num{
+    width:34px;
+}
+.opmin{
+    width:35px;
+}
+#zero{
+    width:110px;
+}
+.opdiv{
+    width:35px;
+    padding:0px;
+    margin:0px;
+}
